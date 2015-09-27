@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StethoSample</string>
+
+    <string name="make_network_call">Make a network call</string>
+</resources>
